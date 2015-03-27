@@ -17,3 +17,16 @@ sdk-ios-cocoapods
 接下来, 就可以正常使用环信的所有功能啦.
 
 具体的使用步骤可以参考我们的官方文档: [初始化](http://developer.easemob.com/docs/emchat/ios/singlechat.html)
+
+吭爹的cocoapods 各种用不起
+手动导入算了
+
+MobileCoreServices.framework
+CFNetwork.framework
+libstdc++.6.0.9.dylib
+libsqlite3.dylib
+libxml2.dylib
+libiconv.dylib
+libz.dylib
+libresolv.dylib
+
