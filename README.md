@@ -22,11 +22,18 @@ sdk-ios-cocoapods
 手动导入算了
 
 MobileCoreServices.framework
+
 CFNetwork.framework
+
 libstdc++.6.0.9.dylib
+
 libsqlite3.dylib
+
 libxml2.dylib
+
 libiconv.dylib
+
 libz.dylib
+
 libresolv.dylib
 
